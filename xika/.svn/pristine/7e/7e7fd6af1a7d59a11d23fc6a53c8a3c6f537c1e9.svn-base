@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.xika.config.Resource",
+      "name": "com.xika.opensource",
+      "type": "com.xika.config.Resource"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.xika.config.Resource",
+      "name": "com.xika.opensource.language",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xika.config.Resource",
+      "name": "com.xika.opensource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xika.config.Resource",
+      "name": "com.xika.opensource.sign-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xika.config.Resource",
+      "name": "com.xika.opensource.website",
+      "type": "java.lang.String"
+    }
+  ]
+}

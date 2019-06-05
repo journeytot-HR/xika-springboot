@@ -1,0 +1,8 @@
+2019-06-05 10:19:49,789 INFO (StartupInfoLogger.java:57)- Started XikaApplication in 1.284 seconds (JVM running for 356.779)
+2019-06-05 10:22:08,911 INFO (StartupInfoLogger.java:48)- Starting XikaApplication on DESKTOP-9I7EUP9 with PID 1208 (D:\workspace_sts\xika\target\classes started by nec in D:\workspace_sts\xika)
+2019-06-05 10:22:08,912 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.21.RELEASE, Spring v4.3.24.RELEASE
+2019-06-05 10:22:08,912 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-06-05 10:22:10,126 INFO (StartupInfoLogger.java:57)- Started XikaApplication in 1.246 seconds (JVM running for 497.117)
+2019-06-05 10:22:58,347 INFO (StartupInfoLogger.java:48)- Starting XikaApplication on DESKTOP-9I7EUP9 with PID 1208 (D:\workspace_sts\xika\target\classes started by nec in D:\workspace_sts\xika)
+2019-06-05 10:22:58,347 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.21.RELEASE, Spring v4.3.24.RELEASE
+2019-06-05 10:22:58,347 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default

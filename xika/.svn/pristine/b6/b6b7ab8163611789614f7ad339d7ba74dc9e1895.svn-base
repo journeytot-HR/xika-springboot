@@ -1,0 +1,14 @@
+2019-06-05 10:00:02,571 INFO (StartupInfoLogger.java:57)- Started XikaApplication in 1.331 seconds (JVM running for 518.505)
+2019-06-05 10:00:08,131 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM sys_role WHERE (name LIKE ?) 
+2019-06-05 10:00:08,133 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: %管理员%(String)
+2019-06-05 10:00:08,135 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2019-06-05 10:00:08,136 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT id,num,pid,name,deptid,tips,version FROM sys_role WHERE ( name like ? ) order by deptid DESC LIMIT ? 
+2019-06-05 10:00:08,136 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: %管理员%(String), 2(Integer)
+2019-06-05 10:00:08,139 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2019-06-05 10:00:08,141 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from sys_role 
+2019-06-05 10:00:08,141 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2019-06-05 10:00:08,144 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 9
+2019-06-05 10:00:08,145 ERROR (LogServiceTakeTime.java:52)- 操作时间 took: 0
+2019-06-05 10:01:04,888 INFO (StartupInfoLogger.java:48)- Starting XikaApplication on DESKTOP-9I7EUP9 with PID 21608 (D:\workspace_sts\xika\target\classes started by nec in D:\workspace_sts\xika)
+2019-06-05 10:01:04,888 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.21.RELEASE, Spring v4.3.24.RELEASE
+2019-06-05 10:01:04,888 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
